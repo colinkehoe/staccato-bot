@@ -1,3 +1,10 @@
+/*
+*                    Staccato
+*            A music bot for Discord!
+!! --------> Developed by Colin Kehoe <--------
+*/
+
+
 const Discord = require('discord.js');
 const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
